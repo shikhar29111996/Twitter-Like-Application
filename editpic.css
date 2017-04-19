@@ -1,0 +1,31 @@
+.bi
+{
+float:right;
+width:1263px;
+height:60px;
+background-image: url('images/blockheader2.png');
+margin-top:0px;
+}
+.right3{
+width:900px;
+Height:350px;
+border-style:solid;
+border-width:thin;
+border-color:#b3b3b3;
+margin:50px 100px 100px 180px;
+float:left;
+}
+.greenButton{
+	width:auto;
+	margin:10px 0 0 2px;
+	padding:3px 4px 3px 4px;
+	color:white;
+	background-color:#6aa74f;
+	border:1px solid #006600;
+	outline:none;
+	font-family:Palatino Linotype;
+	
+}
+.font{
+font-family:calibri;
+}
